@@ -4,6 +4,6 @@ Projeto A3 - Amazon
 
 -- EM ANDAMENTO --
 
-Leonardo Gabriel Rodrigues de Lima \n
+Leonardo Gabriel Rodrigues de Lima
 
-Miguel Stroparo Schefer \n
+Miguel Stroparo Schefer
